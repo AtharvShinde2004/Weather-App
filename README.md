@@ -28,7 +28,7 @@ This project is a small web application that allows users to enter a location an
 
 1. Clone the repository to your local machine.
    ```bash
-   git clone https://github.com/your-username/your-weather-app.git
+   git clone https://github.com/AtharvShinde2004/Weather-App.git
    ```
 
 2. Set up your local server environment (e.g., MAMP, XAMPP).
@@ -38,10 +38,6 @@ This project is a small web application that allows users to enter a location an
 4. Update the Open Weather Map API key in the `index.php` file.
 
 5. Access the application through your local server (e.g., http://localhost/your-weather-app/index.php).
-
-## Screenshots
-
-![Weather App Screenshot](screenshots/weather_app_screenshot.png)
 
 ## License
 
